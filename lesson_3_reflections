@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+You push new commits to remote repo so that other contributors can access it remotely, 
+or if you had pushed new commits from different computer and may want to pull it to
+your local computer later on.
